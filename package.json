@@ -1,0 +1,28 @@
+{
+  "name": "express-router",
+  "version": "1.0.0",
+  "description": "express router middleware which simplify express route config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fisherw/express-router.git"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "lodash": "^4.17.11"
+  },
+  "keywords": [
+    "middleware",
+    "router",
+    "config"
+  ],
+  "author": "fisherw <wangjiang.fly.1989@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fisherw/express-router/issues"
+  },
+  "homepage": "https://github.com/fisherw/express-router#readme"
+}
