@@ -1,4 +1,4 @@
-# express-router
+# exp-router
 
 express路由中间件。中间件自动获取指定目录文件夹中定义的路由，并简化路由配置形式。
 
@@ -6,7 +6,7 @@ express路由中间件。中间件自动获取指定目录文件夹中定义的�
 
 全局安装或者本地安装:
 ```
-npm install -S express-router
+npm install -S exp-router
 ```
 
 ## 中间件使用方法
@@ -14,7 +14,7 @@ npm install -S express-router
 ```javascript
 const path = require('path');
 const express = require('express');
-const expressRouter = require('express-router');
+const expressRouter = require('exp-router');
 
 const app = express();
 // 指定项目目录下routes目录作为路由目录

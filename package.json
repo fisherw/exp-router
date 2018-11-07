@@ -1,5 +1,5 @@
 {
-  "name": "express-router",
+  "name": "exp-router",
   "version": "1.0.0",
   "description": "express router middleware which simplify express route config",
   "main": "index.js",
